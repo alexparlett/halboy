@@ -3,7 +3,7 @@
   :license {:name "MIT License"
             :url  "https://opensource.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.9.0-alpha16"]
-                 [http-kit "2.3.0"]
+                 [http-kit "2.5.0"]
                  [cheshire "5.8.0"]
                  [medley "1.0.0"]
                  [uritemplate-clj "1.2.1"]
